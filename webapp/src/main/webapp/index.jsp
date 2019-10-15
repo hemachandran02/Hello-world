@@ -5,7 +5,7 @@
 </head>
 
 <marquee width="40%" direction="up" height="30%">
-    CI/CD Pipeline.
+    CI/CD Pipeline Automated Website.
 </marquee>
 
 </html>
