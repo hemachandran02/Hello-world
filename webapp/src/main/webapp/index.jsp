@@ -1,2 +1,11 @@
-<h1> Hello World !!! </h1>
-<h2> Automated</h2>
+<html>
+
+<head>
+    <title>Devops Project</title>
+</head>
+
+<marquee width="40%" direction="up" height="30%">
+    CI/CD Pipeline.
+</marquee>
+
+</html>
